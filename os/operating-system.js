@@ -6,6 +6,9 @@ console.log(os.arch())
 // Platform
 console.log(os.platform())
 
+// Hostname
+console.log(os.hostname())
+
 // Free Memory
 console.log(os.freemem()/1024/1024/1024)
 
